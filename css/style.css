@@ -1,0 +1,25 @@
+/* h3 {
+    color:pink;
+} */
+
+
+
+#greycol {
+    color:gray;
+}
+
+div + div > p {
+ color:red;
+}
+
+div + div + h3 + p {
+    color:green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.text-box > h3:first-child {
+  color:pink;  
+}
